@@ -102,9 +102,9 @@ MarkupSafe==1.1.1
 matplotlib==3.1.3
 mccabe==0.6.1
 mistune==0.8.4
-mkl-fft 
-mkl-random 
-mkl-service 
+mkl_fft 
+mkl_random 
+mkl_service 
 mock==4.0.1
 more-itertools==8.2.0
 mpld3==0.3
